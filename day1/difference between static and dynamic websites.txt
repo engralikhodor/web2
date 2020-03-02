@@ -1,0 +1,7 @@
+Static & Dynamic Websites 
+
+There are basically two main types of website - static and dynamic.
+A static site is one that is usually written in plain HTML and what is in the code of the page is what is displayed to the user.
+
+A dynamic site is one that is written using a server-side scripting language such as PHP, ASP, JSP, or Coldfusion. In such a site the content is called in by the scripting language from other files or from a database depending on actions taken by the user.
+
