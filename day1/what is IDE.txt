@@ -1,0 +1,27 @@
+What is an IDE?
+An integrated development environment (IDE) is a software suite that consolidates basic tools required to write and test software.
+
+Examples of good IDEs for PHP development:
+PHPStorm
+- Netbeans (download: https://netbeans.org/downloads/8.0.2/)
+Aptana Studio
+Eclipse
+Visual Studio (with Xamarin)
+ZendStudio
+Sublime Text
+Visual Studio Code
+- Atom: (download: https://atom.io/)
+- Notepad++ (download: https://notepad-plus-plus.org/downloads/)
+Coda
+Brackets
+SlickEdit
+jEdit
+Programmer’s Notepad
+Komodo Edit
+RJ TextEd
+Rapid
+Ultraedit
+- Codeanywhere
+Codeanywhere is a cross-platform Cloud IDE created by Codeanywhere, 
+Inc. Codeanywhere enables users to instantly write, edit, 
+collaborate and run web development projects from a web browser and any mobile device. Codeanywhere is entirely written in JavaScript.
