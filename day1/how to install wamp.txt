@@ -1,0 +1,12 @@
+How to install wamp on your PC? 
+1- Go to http://www.wampserver.com/en/#download-wrapper
+2- Click download (your version) - ABOUT 500MB
+3- Click download directly 
+4- Wait for the download to start and complete
+5- Once downloaded, install it in c:\wamp
+6- Click start server
+7- Open your browser (Chrome or Firefox or Edge) and go to http://localhost
+8- Check your Apache Version - PHP Version ...
+9- Go to http://localhost/phpmyadmin
+10- root and the password is empty
+Reference: https://www.youtube.com/watch?v=MsMaiHqkKkQ

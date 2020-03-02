@@ -1,0 +1,10 @@
+WAMP
+WAMP is an acronym that stands for Windows, Apache, MySQL, and PHP. 
+It’s a software stack which means installing WAMP installs Apache, MySQL, and PHP on your operating system
+(Windows in the case of WAMP). 
+
+(ie) XAMPP is for X-OS, Apache, Mysql, PHP, Perl.
+WAMP is for Windows
+LAMP is for Linux
+MAMP is for Mac OS X
+
