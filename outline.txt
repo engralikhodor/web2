@@ -1,0 +1,30 @@
+WEB2 COURSE OUTLINE
+-----------------------------------
+A) What is a web server? How to install WAMP? 
+B) PHPMyadmin and how to create a new database.
+C) How to create a new user with permissions and password.
+D) How to create tables and assign the primary keys + select,insert,update,delete,join,count,group by,order by
+E) What is PHP? What is MySQL? And why to use them?
+F) PHP variables and basic syntax.
+G) Echoing HTML output to the browser.
+H) The importance of comments and how to add them.
+I) Arithmetic Operators.
+J) Logical Operators.
+K) Comaprisons (conditional statement if,else,elseif) + for, while, switch loop.
+L) Using built-in numberic functions.
+M) phpinfo() and get server info.
+N) Set date location (example: Asia/Beirut)
+O) Concatenating strings, trimming strings, replacing characters and some string functions.
+P) GET and POST (old and new).
+Q) Send data from html form to the database, without AJAX.
+R) Send data from html form to the database, using AJAX.
+S) Using mysql_connect() and mysql_select_db() 
+(one example only)
+T) PDO and how to use it: construct, db connect, foreach, return values.
+U) PDO functions: register,login,add entries,delete entries,edit entries,filter entries.
+V) include and require.
+W) Array one dimension and two dimensions: how to deal with them (push, get values, remove values).
+X) JSON encode and decode.
+Y) JavaScript serialize function.
+Z) hosting (File manager and ftp).
+BONUS: MVC CONCEPT _ LARAVEL PROJECT

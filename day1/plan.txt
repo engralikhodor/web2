@@ -1,0 +1,68 @@
+WEB2 - DAY1: What is a web server? How to install WAMP? What is PHP? What is MySQL?
+-----------
+A web server is server software, or hardware dedicated to running this software, 
+that can satisfy client requests on the World Wide Web.
+A web server can, in general, contain one or more websites.
+A web server processes incoming network requests over HTTP and several other related protocols.
+
+HTTP is a generic and stateless protocol which can be used for other purposes as well using extensions
+of its request methods, error codes, and headers. Basically, HTTP is a TCP/IP based communication protocol,
+that is used to deliver data (HTML files, image files, query results, etc.) on the World Wide Web.
+
+WAMP is an acronym that stands for Windows, Apache, MySQL, and PHP. 
+It’s a software stack which means installing WAMP installs Apache, MySQL, and PHP on your operating system
+(Windows in the case of WAMP). 
+
+(ie) XAMPP is for X-OS, Apache, Mysql, PHP, Perl.
+WAMP is for Windows
+LAMP is for Linux
+MAMP is for Mac OS X
+
+How to install wamp on your PC? → https://www.youtube.com/watch?v=MsMaiHqkKkQ
+
+1- Go to http://www.wampserver.com/en/#download-wrapper
+2- Click download (your version) - ABOUT 500MB
+3- Click download directly 
+4- Wait for the download to start and complete
+5- Once downloaded, install it in c:\wamp
+6- Click start server
+7- Open your browser (Chrome or Firefox or Edge) and go to http://localhost
+8- Check your Apache Version - PHP Version ...
+9- Go to http://localhost/phpmyadmin
+10- root and the password is empty
+
+SHOW MULTIPLE WEBSITES WE'VE WORKED ON
+mavitourvip.com
+www.shoghol.org
+www.lebmall.com
+www.littlebrightminds.org
+www.re-viewoptik.com
+www.akscargo.com
+www.wegrowminds.com
+www.lr.international
+www.newlink.me
+
+LINK OF A WEBSITE DONE BY AN OLD STUDENT
+
+
+
+What is PHP → PHP is a server side scripting language. that is used to develop Static websites or Dynamic websites or Web applications.
+
+What is MySQL → MySQL is a relational database management system based on SQL – Structured Query Language.
+The application is used for a wide range of purposes, including data warehousing, e-commerce, and logging applications.
+The most common use for mySQL however, is for the purpose of a web database.
+
+Relational databases are structured. You have tables and these tables may have dependencies on each other, 
+or relationships. A database for a store will have a table for customers and one for orders. 
+These two tables are related, because an order is made by a customer.
+
+A relational database uses SQL which is short for Structured Query Language. This is a fairly rigid and standard way 
+of storing data using tables, columns and rows. Columns represent the data point to be stored and a row represents 
+a record with data points per column that has been defined. These are defined in a table which is usually 
+atomic in nature; this means that a table should really only store data records on one entity or object at a time. 
+Eg. A Table Customers should ONLY be storing customer records.
+
+When additional details are required, or data needs to be associated with a record from one table to another, 
+then we have what we call relationships. A common key is established between the two (or more) tables and 
+this is used for that association there after.
+
