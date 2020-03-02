@@ -31,8 +31,8 @@ How to install wamp on your PC? → https://www.youtube.com/watch?v=MsMaiHqkKkQ
 9- Go to http://localhost/phpmyadmin
 10- root and the password is empty
 
-SHOW MULTIPLE WEBSITES WE'VE WORKED ON
-mavitourvip.com
+SHOWING SOME WEBSITES WE'VE WORKED ON
+www.mavitourvip.com
 www.shoghol.org
 www.lebmall.com
 www.littlebrightminds.org
@@ -45,24 +45,23 @@ www.newlink.me
 LINK OF A WEBSITE DONE BY AN OLD STUDENT
 https://doaaoustabugatti.wordpress.com/
 
-What is PHP → PHP is a server side scripting language. that is used to develop Static websites or Dynamic websites or Web applications.
+What is PHP → PHP is a server side scripting language, that is used to develop Static websites or Dynamic websites or Web applications.
 
 What is MySQL → MySQL is a relational database management system based on SQL – Structured Query Language.
 The application is used for a wide range of purposes, including data warehousing, e-commerce, and logging applications.
 The most common use for mySQL however, is for the purpose of a web database.
 
-Relational databases are structured. You have tables and these tables may have dependencies on each other, 
+* Relational databases are structured. You have tables and these tables may have dependencies on each other, 
 or relationships. A database for a store will have a table for customers and one for orders. 
 These two tables are related, because an order is made by a customer.
-
-A relational database uses SQL which is short for Structured Query Language. This is a fairly rigid and standard way 
+* A relational database uses SQL which is short for Structured Query Language. This is a fairly rigid and standard way 
 of storing data using tables, columns and rows. Columns represent the data point to be stored and a row represents 
 a record with data points per column that has been defined. These are defined in a table which is usually 
 atomic in nature; this means that a table should really only store data records on one entity or object at a time. 
 Eg. A Table Customers should ONLY be storing customer records.
-
-When additional details are required, or data needs to be associated with a record from one table to another, 
+* When additional details are required, or data needs to be associated with a record from one table to another, 
 then we have what we call relationships. A common key is established between the two (or more) tables and 
 this is used for that association there after.
 
-Illustration https://newlink.me/Z28iO
+Illustration 
+https://newlink.me/2LEHA
