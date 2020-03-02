@@ -43,8 +43,7 @@ www.lr.international
 www.newlink.me
 
 LINK OF A WEBSITE DONE BY AN OLD STUDENT
-
-
+https://doaaoustabugatti.wordpress.com/
 
 What is PHP → PHP is a server side scripting language. that is used to develop Static websites or Dynamic websites or Web applications.
 
@@ -66,3 +65,4 @@ When additional details are required, or data needs to be associated with a reco
 then we have what we call relationships. A common key is established between the two (or more) tables and 
 this is used for that association there after.
 
+Illustration https://newlink.me/Z28iO
