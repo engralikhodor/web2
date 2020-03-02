@@ -14,7 +14,7 @@ K) Concatenating strings, trimming strings, replacing characters and some string
 L) PHPMyadmin and how to create a new database.
 M) How to create tables and assign the primary keys + select,insert,update,delete,join,count,group by,order by
 N) How to create a new user with permissions and password.
-O) Comaprisons (conditional statement if,else,elseif) + for, while, switch loop.
+O) Comparisons (conditional statement if,else,elseif) + for, while, switch loop.
 P) GET and POST (old and new).
 Q) Send data from html form to the database, without AJAX.
 R) Send data from html form to the database, using AJAX.
@@ -27,4 +27,5 @@ W) Array one dimension and two dimensions: how to deal with them (push, get valu
 X) JSON encode and decode.
 Y) JavaScript serialize function.
 Z) hosting (File manager and ftp).
+BONUS: WP.org
 BONUS: MVC CONCEPT _ LARAVEL PROJECT
