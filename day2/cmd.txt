@@ -1,4 +1,4 @@
-RunningPHP Script from Command Prompt
+Running PHP Script from Command Prompt
 Yes you can run your PHP script on your command prompt. Assuming you have the following
 content in example1.php file
 
